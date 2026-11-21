@@ -1,0 +1,15 @@
+{
+  "registeredVkHash": "12345",
+  "proofVkHash": "12345",
+  "minimum": "1000",
+  "publicBalance": "1460",
+  "expiryBlock": "8430000",
+  "currentBlock": "8420000",
+  "recipient": "1",
+  "conditionRecipient": "1",
+  "amount": "500",
+  "maxTransfer": "1000",
+  "decision": "1",
+  "taskId": "1",
+  "salt": "12345"
+}
